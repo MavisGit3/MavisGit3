@@ -16,6 +16,7 @@ On the blockchain side, I build smart contracts and dApps to bring web experienc
 - Tools & Frameworks: Hardhat, Truffle, Remix, Ethers.js, Wagmi  
 - Passion: Secure, scalable, and innovative decentralized solutions  
 
+
 - ✅ Build responsive landing pages & web apps  
 - ✅ Develop scalable decentralized applications  
 - ✅ Create smooth, user-friendly interfaces  
