@@ -16,13 +16,13 @@ On the blockchain side, I build smart contracts and dApps to bring web experienc
 - Tools & Frameworks: Hardhat, Remix, Ethers.js  
 - Passion: Secure, scalable, and innovative decentralized solutions  
 
-✅ Build responsive landing pages & web apps  
-✅ Develop scalable decentralized applications  
-✅ Create smooth, user-friendly interfaces  
-✅ Focus on clarity, speed, and performance   
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mavis-ogodu) [Twitter](https://twitter.com/mavisogodu3) | Email: mavisogodu@gmail.com
-😄 Pronouns: he/him
-⚡ Fun fact: am very fun to be with 
+- ✅ Build responsive landing pages & web apps  
+- ✅ Develop scalable decentralized applications  
+- ✅ Create smooth, user-friendly interfaces  
+- ✅ Focus on clarity, speed, and performance   
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mavis-ogodu) [Twitter](https://twitter.com/mavisogodu3) | Email: mavisogodu@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: am very fun to be with 
 - 
 
 <!---
